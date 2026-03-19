@@ -1,4 +1,4 @@
-package JAVA_Exam_10_02_2026;
+package JAVAExample;
 
 public class indentifire {  // class identfire 
 

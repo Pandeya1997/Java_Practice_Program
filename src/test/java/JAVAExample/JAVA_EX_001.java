@@ -1,4 +1,4 @@
-package JAVA_Exam_10_02_2026;
+package JAVAExample;
 
 public class JAVA_EX_001 {
 public static void main(String[] arg) {

@@ -4,39 +4,105 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="" />
+    <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/java_ex_024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/java_ex_025.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helloword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_EX_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/JAVA_EX_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indentifire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/indentifire.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3Amhg7wnziy7igNX8Ch0XX7qzgI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.java_ex_024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.java_ex_025.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AppTest.testApp.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.AppTest">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AARRSOL\IdeaProjects\Java_Practice_Program\src\test\java\JAVAExample" />
+      <recent name="C:\Users\AARRSOL\IdeaProjects\Java_Practice_Program\src\main\java\JAVAExample" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVAExample.Opretor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.java_ex_026">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JAVAExample.App" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JAVAExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_ex_024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.java_ex_024" />
+      <module name="Java_Practice_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_ex_025" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.java_ex_025" />
+      <module name="Java_Practice_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_ex_026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.java_ex_026" />
+      <module name="Java_Practice_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAExample.Opretor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +125,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_Practice_Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_Practice_Program" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_ex_026" />
+        <item itemvalue="Application.java_ex_025" />
+        <item itemvalue="Application.java_ex_024" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="Application.App" />
       </list>
