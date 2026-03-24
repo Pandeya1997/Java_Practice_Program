@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Casting/Java_ex_47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Casting/Java_ex_48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Casting/Java_ex_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_50.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -6,7 +6,7 @@ public class Java_ex_50 {
      // String ?
         // Bunch of char - collection of class
         // class - what is class
-        // class - provies same 
-     
+        // class - provies same extra f(n)
+        System.out.println("your name is -->"+ name);
     }
 }
