@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_51.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Application.Java_ex_46.executor": "Run",
     "Application.Java_ex_47.executor": "Run",
     "Application.Java_ex_48.executor": "Run",
+    "Application.Java_ex_49.executor": "Run",
     "Application.java_ex_024.executor": "Run",
     "Application.java_ex_025.executor": "Run",
     "Application.java_ex_026.executor": "Run",
@@ -82,20 +82,7 @@
       <recent name="JAVAExample.Opretor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_48">
-    <configuration name="Java_ex_44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_44" />
-      <module name="Java_Practice_Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVAExample.Casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Java_ex_49">
     <configuration name="Java_ex_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_45" />
       <module name="Java_Practice_Program" />
@@ -148,13 +135,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Java_ex_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_49" />
+      <module name="Java_Practice_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAExample.StringClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_ex_49" />
         <item itemvalue="Application.Java_ex_48" />
         <item itemvalue="Application.Java_ex_47" />
         <item itemvalue="Application.Java_ex_46" />
         <item itemvalue="Application.Java_ex_45" />
-        <item itemvalue="Application.Java_ex_44" />
       </list>
     </recent_temporary>
   </component>
