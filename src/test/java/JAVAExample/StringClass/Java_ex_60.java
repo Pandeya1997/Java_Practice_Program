@@ -3,9 +3,9 @@ package JAVAExample.StringClass;
 public class Java_ex_60 {
     public static void main(String[] args) {
 
-    String s1 = "Hello";
-    String s2 = "He"+ "llo";
-    String s3 = new String("He")+ "llo";
+    String s1 = "Hello"; // SCP
+    String s2 = "He"+ "llo"; // SCP
+    String s3 = new String("He")+ "llo"; // Heap Memory
 
 
         System.out.println(s1 == s2);

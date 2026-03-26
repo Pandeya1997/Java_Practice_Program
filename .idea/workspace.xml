@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/Java_ex_37_Ternaryopretor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_60.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
     "Application.Java_ex_34_TernaryOperator.executor": "Run",
     "Application.Java_ex_35_TernaryOperator.executor": "Run",
     "Application.Java_ex_36_TernaryOperator.executor": "Run",
+    "Application.Java_ex_37_Ternaryopretor.executor": "Run",
     "Application.Java_ex_39.executor": "Run",
     "Application.Java_ex_40.executor": "Run",
     "Application.Java_ex_41.executor": "Run",
@@ -66,6 +68,12 @@
     "Application.Java_ex_59.executor": "Run",
     "Application.Java_ex_60.executor": "Run",
     "Application.Java_ex_61.executor": "Run",
+    "Application.Java_ex_62.executor": "Run",
+    "Application.Java_ex_63.executor": "Run",
+    "Application.Java_ex_64.executor": "Run",
+    "Application.Java_ex_66.executor": "Run",
+    "Application.Java_ex_67.executor": "Run",
+    "Application.Java_ex_68.executor": "Run",
     "Application.java_ex_024.executor": "Run",
     "Application.java_ex_025.executor": "Run",
     "Application.java_ex_026.executor": "Run",
@@ -90,14 +98,27 @@
       <recent name="C:\Users\AARRSOL\IdeaProjects\Java_Practice_Program\src\main\java\JAVAExample" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVAExample.Opretor" />
       <recent name="JAVAExample.StringClass" />
       <recent name="JAVAExample.Casting" />
-      <recent name="JAVAExample.Opretor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_61">
-    <configuration name="Java_ex_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_57" />
+  <component name="RunManager" selected="Application.Java_ex_37_Ternaryopretor">
+    <configuration name="Java_ex_37_Ternaryopretor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_37_Ternaryopretor" />
+      <module name="Java_Practice_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_ex_64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_64" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_58" />
+    <configuration name="Java_ex_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_66" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_59" />
+    <configuration name="Java_ex_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_67" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -135,21 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_60" />
-      <module name="Java_Practice_Program" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JAVAExample.StringClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Java_ex_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_61" />
+    <configuration name="Java_ex_68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_68" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_61" />
-        <item itemvalue="Application.Java_ex_60" />
-        <item itemvalue="Application.Java_ex_59" />
-        <item itemvalue="Application.Java_ex_58" />
-        <item itemvalue="Application.Java_ex_57" />
+        <item itemvalue="Application.Java_ex_37_Ternaryopretor" />
+        <item itemvalue="Application.Java_ex_68" />
+        <item itemvalue="Application.Java_ex_67" />
+        <item itemvalue="Application.Java_ex_66" />
+        <item itemvalue="Application.Java_ex_64" />
       </list>
     </recent_temporary>
   </component>
