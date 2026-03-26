@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_61.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/StringClass/Java_ex_52.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +60,12 @@
     "Application.Java_ex_47.executor": "Run",
     "Application.Java_ex_48.executor": "Run",
     "Application.Java_ex_49.executor": "Run",
+    "Application.Java_ex_52.executor": "Run",
+    "Application.Java_ex_57.executor": "Run",
+    "Application.Java_ex_58.executor": "Run",
+    "Application.Java_ex_59.executor": "Run",
+    "Application.Java_ex_60.executor": "Run",
+    "Application.Java_ex_61.executor": "Run",
     "Application.java_ex_024.executor": "Run",
     "Application.java_ex_025.executor": "Run",
     "Application.java_ex_026.executor": "Run",
@@ -81,13 +95,13 @@
       <recent name="JAVAExample.Opretor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_49">
-    <configuration name="Java_ex_45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_45" />
+  <component name="RunManager" selected="Application.Java_ex_61">
+    <configuration name="Java_ex_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_57" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Casting.*" />
+          <option name="PATTERN" value="JAVAExample.StringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_46" />
+    <configuration name="Java_ex_58" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_58" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Casting.*" />
+          <option name="PATTERN" value="JAVAExample.StringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_47" />
+    <configuration name="Java_ex_59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_59" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Casting.*" />
+          <option name="PATTERN" value="JAVAExample.StringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Casting.Java_ex_48" />
+    <configuration name="Java_ex_60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_60" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Casting.*" />
+          <option name="PATTERN" value="JAVAExample.StringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_49" />
+    <configuration name="Java_ex_61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.StringClass.Java_ex_61" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_49" />
-        <item itemvalue="Application.Java_ex_48" />
-        <item itemvalue="Application.Java_ex_47" />
-        <item itemvalue="Application.Java_ex_46" />
-        <item itemvalue="Application.Java_ex_45" />
+        <item itemvalue="Application.Java_ex_61" />
+        <item itemvalue="Application.Java_ex_60" />
+        <item itemvalue="Application.Java_ex_59" />
+        <item itemvalue="Application.Java_ex_58" />
+        <item itemvalue="Application.Java_ex_57" />
       </list>
     </recent_temporary>
   </component>
