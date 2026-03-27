@@ -1,6 +1,6 @@
 package JAVAExample.Opretor;
 
-public class Java_ex_37_Ternaryopretor {
+public class Java_ex_70_Ternaryopretor {
     public static void main(String[] args) {
 //        condition ? true_value : false_value;
    boolean result = 100>40 ? 10<40 :40>10;
