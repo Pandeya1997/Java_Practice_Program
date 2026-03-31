@@ -1,0 +1,14 @@
+package JAVAExample.Loops;
+
+public class Java_ex_83 {
+    public static void main(String[] args) {
+
+        boolean b = !true;
+        if(b){
+            System.out.println("b is true");
+        }else {
+            System.out.println("b is not true");
+        }
+
+    }
+}

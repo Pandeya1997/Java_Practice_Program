@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/Java_ex_77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/Java_ex_78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/Java_ex_79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Opretor/Java_ex_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +85,18 @@
     "Application.Java_ex_77.executor": "Run",
     "Application.Java_ex_78.executor": "Run",
     "Application.Java_ex_80.executor": "Run",
+    "Application.Java_ex_82.executor": "Run",
+    "Application.Java_ex_83.executor": "Run",
+    "Application.Java_ex_84.executor": "Debug",
+    "Application.Java_ex_85.executor": "Run",
+    "Application.Java_ex_86.executor": "Run",
+    "Application.Java_ex_87.executor": "Run",
+    "Application.Java_ex_88.executor": "Run",
+    "Application.Java_ex_89.executor": "Run",
+    "Application.Java_ex_90.executor": "Run",
+    "Application.Java_ex_91.executor": "Run",
+    "Application.Java_ex_92.executor": "Run",
+    "Application.Java_ex_93.executor": "Run",
     "Application.java_ex_024.executor": "Run",
     "Application.java_ex_025.executor": "Run",
     "Application.java_ex_026.executor": "Run",
@@ -91,6 +112,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -100,18 +122,19 @@
       <recent name="C:\Users\AARRSOL\IdeaProjects\Java_Practice_Program\src\main\java\JAVAExample" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVAExample.Loops" />
       <recent name="JAVAExample.Opretor" />
       <recent name="JAVAExample.StringClass" />
       <recent name="JAVAExample.Casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_80">
-    <configuration name="Java_ex_75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_75" />
+  <component name="RunManager" selected="Application.Java_ex_93">
+    <configuration name="Java_ex_89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_89" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_76" />
+    <configuration name="Java_ex_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_90" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_77" />
+    <configuration name="Java_ex_91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_91" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_78" />
+    <configuration name="Java_ex_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_92" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Opretor.Java_ex_80" />
+    <configuration name="Java_ex_93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_93" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Opretor.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_80" />
-        <item itemvalue="Application.Java_ex_78" />
-        <item itemvalue="Application.Java_ex_77" />
-        <item itemvalue="Application.Java_ex_76" />
-        <item itemvalue="Application.Java_ex_75" />
+        <item itemvalue="Application.Java_ex_93" />
+        <item itemvalue="Application.Java_ex_92" />
+        <item itemvalue="Application.Java_ex_91" />
+        <item itemvalue="Application.Java_ex_90" />
+        <item itemvalue="Application.Java_ex_89" />
       </list>
     </recent_temporary>
   </component>
@@ -191,5 +214,16 @@
       <updated>1773203763948</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_84.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
