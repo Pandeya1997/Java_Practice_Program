@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/Java_ex_98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +89,11 @@
     "Application.Java_ex_91.executor": "Run",
     "Application.Java_ex_92.executor": "Run",
     "Application.Java_ex_93.executor": "Run",
+    "Application.Java_ex_94.executor": "Run",
+    "Application.Java_ex_95.executor": "Run",
+    "Application.Java_ex_96.executor": "Run",
+    "Application.Java_ex_97.executor": "Run",
+    "Application.Java_ex_98.executor": "Run",
     "Application.java_ex_024.executor": "Run",
     "Application.java_ex_025.executor": "Run",
     "Application.java_ex_026.executor": "Run",
@@ -128,9 +125,9 @@
       <recent name="JAVAExample.Casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_93">
-    <configuration name="Java_ex_89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_89" />
+  <component name="RunManager" selected="Application.Java_ex_98">
+    <configuration name="Java_ex_94" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_94" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -142,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_90" />
+    <configuration name="Java_ex_95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_95" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_91" />
+    <configuration name="Java_ex_96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_96" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -168,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_92" />
+    <configuration name="Java_ex_97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_97" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_93" />
+    <configuration name="Java_ex_98" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_98" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -196,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_93" />
-        <item itemvalue="Application.Java_ex_92" />
-        <item itemvalue="Application.Java_ex_91" />
-        <item itemvalue="Application.Java_ex_90" />
-        <item itemvalue="Application.Java_ex_89" />
+        <item itemvalue="Application.Java_ex_98" />
+        <item itemvalue="Application.Java_ex_97" />
+        <item itemvalue="Application.Java_ex_96" />
+        <item itemvalue="Application.Java_ex_95" />
+        <item itemvalue="Application.Java_ex_94" />
       </list>
     </recent_temporary>
   </component>
