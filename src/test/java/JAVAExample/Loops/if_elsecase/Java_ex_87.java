@@ -1,4 +1,4 @@
-package JAVAExample.Loops;
+package JAVAExample.Loops.if_elsecase;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JAVAExample.Loops;
+package JAVAExample.Loops.if_elsecase;
 
 public class Java_ex_81 {
     public static void main(String[] args) {

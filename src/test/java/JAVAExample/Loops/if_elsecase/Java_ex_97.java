@@ -1,11 +1,14 @@
-package JAVAExample.Loops;
+package JAVAExample.Loops.if_elsecase;
 
 import java.util.Scanner;
 
-public class Java_ex_96 {
+public class Java_ex_97 {
     public static void main(String[] args) {
 
-    char ch = 'G';
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter yout Character ");
+        String input =sc.next();
+        char ch = input.charAt(0);
 
         if (ch >= 'A' && ch <= 'Z') {
             System.out.println("Uppercase");
