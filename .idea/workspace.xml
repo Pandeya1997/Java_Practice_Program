@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_118_Switch_with_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_119_Modern_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_120_Modern_Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/SwitchCase/Java_ex_109.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +58,14 @@
     "Application.Java_ex_105.executor": "Run",
     "Application.Java_ex_106.executor": "Run",
     "Application.Java_ex_108.executor": "Run",
+    "Application.Java_ex_109.executor": "Run",
+    "Application.Java_ex_110.executor": "Run",
+    "Application.Java_ex_115.executor": "Run",
+    "Application.Java_ex_116.executor": "Run",
+    "Application.Java_ex_117.executor": "Run",
+    "Application.Java_ex_118_Switch_with_String.executor": "Run",
+    "Application.Java_ex_119_Modern_Switch.executor": "Run",
+    "Application.Java_ex_120_Modern_Switch.executor": "Run",
     "Application.Java_ex_28.executor": "Run",
     "Application.Java_ex_34_TernaryOperator.executor": "Run",
     "Application.Java_ex_35_TernaryOperator.executor": "Run",
@@ -134,13 +152,13 @@
       <recent name="JAVAExample.Casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_108">
-    <configuration name="JAVAExample.Loops.if_elsecase.Java_ex_106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.if_elsecase.Java_ex_106" />
+  <component name="RunManager" selected="Application.Java_ex_120_Modern_Switch">
+    <configuration name="Java_ex_116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_116" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Loops.if_elsecase.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_104" />
+    <configuration name="Java_ex_117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_117" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Loops.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_105" />
+    <configuration name="Java_ex_118_Switch_with_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_118_Switch_with_String" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Loops.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.Java_ex_106" />
+    <configuration name="Java_ex_119_Modern_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_119_Modern_Switch" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVAExample.Loops.*" />
+          <option name="PATTERN" value="JAVAExample.Loops.SwitchCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_108" />
+    <configuration name="Java_ex_120_Modern_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_120_Modern_Switch" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -202,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_108" />
-        <item itemvalue="Application.JAVAExample.Loops.if_elsecase.Java_ex_106" />
-        <item itemvalue="Application.Java_ex_106" />
-        <item itemvalue="Application.Java_ex_105" />
-        <item itemvalue="Application.Java_ex_104" />
+        <item itemvalue="Application.Java_ex_120_Modern_Switch" />
+        <item itemvalue="Application.Java_ex_119_Modern_Switch" />
+        <item itemvalue="Application.Java_ex_118_Switch_with_String" />
+        <item itemvalue="Application.Java_ex_117" />
+        <item itemvalue="Application.Java_ex_116" />
       </list>
     </recent_temporary>
   </component>
