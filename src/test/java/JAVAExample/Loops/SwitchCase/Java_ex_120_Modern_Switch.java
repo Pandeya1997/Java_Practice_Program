@@ -15,7 +15,7 @@ public class Java_ex_120_Modern_Switch {
             default -> "Unknown";
         };
         System.out.println(Result);
-
+sc.close();
     }
 }
 
