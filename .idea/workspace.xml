@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="460eeb03-7a67-44a5-9ef0-e98461f9523e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_145.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_126.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +78,24 @@
     "Application.Java_ex_123.executor": "Run",
     "Application.Java_ex_124.executor": "Run",
     "Application.Java_ex_125.executor": "Run",
+    "Application.Java_ex_126.executor": "Run",
+    "Application.Java_ex_127.executor": "Run",
+    "Application.Java_ex_128.executor": "Run",
+    "Application.Java_ex_129.executor": "Run",
+    "Application.Java_ex_130.executor": "Run",
+    "Application.Java_ex_131.executor": "Run",
+    "Application.Java_ex_132.executor": "Run",
+    "Application.Java_ex_133.executor": "Run",
+    "Application.Java_ex_134.executor": "Run",
+    "Application.Java_ex_135.executor": "Run",
+    "Application.Java_ex_136.executor": "Run",
+    "Application.Java_ex_137.executor": "Run",
+    "Application.Java_ex_138.executor": "Run",
+    "Application.Java_ex_139.executor": "Run",
+    "Application.Java_ex_140.executor": "Run",
+    "Application.Java_ex_142.executor": "Run",
+    "Application.Java_ex_143.executor": "Run",
+    "Application.Java_ex_144.executor": "Run",
     "Application.Java_ex_28.executor": "Run",
     "Application.Java_ex_34_TernaryOperator.executor": "Run",
     "Application.Java_ex_35_TernaryOperator.executor": "Run",
@@ -138,16 +175,16 @@
       <recent name="C:\Users\AARRSOL\IdeaProjects\Java_Practice_Program\src\main\java\JAVAExample" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JAVAExample.Loops.ForLoopsAndDoWhileloops" />
       <recent name="JAVAExample.Loops.SwitchCase" />
       <recent name="JAVAExample.Loops" />
       <recent name="JAVAExample.Opretor" />
       <recent name="JAVAExample.StringClass" />
-      <recent name="JAVAExample.Casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Java_ex_126">
-    <configuration name="Java_ex_123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_123" />
+  <component name="RunManager" selected="Application.Java_ex_144">
+    <configuration name="Java_ex_139" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_139" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -159,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_124_Ternaryopretor_Largest_three_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_124_Ternaryopretor_Largest_three_Number" />
+    <configuration name="Java_ex_140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_140" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_125" />
+    <configuration name="Java_ex_142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_142" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -185,8 +222,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_125_Ternaryopretor_Largest_fur_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.SwitchCase.Java_ex_125_Ternaryopretor_Largest_fur_Number" />
+    <configuration name="Java_ex_143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_143" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -198,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java_ex_126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_126" />
+    <configuration name="Java_ex_144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVAExample.Loops.ForLoopsAndDoWhileloops.Java_ex_144" />
       <module name="Java_Practice_Program" />
       <extension name="coverage">
         <pattern>
@@ -213,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java_ex_126" />
-        <item itemvalue="Application.Java_ex_125" />
-        <item itemvalue="Application.Java_ex_125_Ternaryopretor_Largest_fur_Number" />
-        <item itemvalue="Application.Java_ex_124_Ternaryopretor_Largest_three_Number" />
-        <item itemvalue="Application.Java_ex_123" />
+        <item itemvalue="Application.Java_ex_144" />
+        <item itemvalue="Application.Java_ex_143" />
+        <item itemvalue="Application.Java_ex_142" />
+        <item itemvalue="Application.Java_ex_140" />
+        <item itemvalue="Application.Java_ex_139" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +276,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/JAVAExample/Loops/if_elsecase/Java_ex_84.java</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/JAVAExample/Loops/ForLoopsAndDoWhileloops/Java_ex_143.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
